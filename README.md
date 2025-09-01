@@ -1,6 +1,6 @@
-   Hi, I’m Defne Ersungur. I am a 3-rd year Bilkent University student. 
+   Hi, I’m Defne Ersungur, a graduate of Bilkent University, CTIS Department.
    
-   My skills and experince are Angular, Typescript, JavaScript, HTML/CSS, jQuery, PHP, C, Java, Database SQL
+   My skills and experince are Java, Selenium, Kotlin, Flutter, SwiftUI, Postman, JavaScript, TypeScript, Oracle SQL, MySQL, Python, R, Node.js, HTML, CSS, JQuery,      Angular, C, Linux, Office Programs.
    
    You can reach me defneersungur@gmail.com
 
